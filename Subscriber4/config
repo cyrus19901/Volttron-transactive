@@ -1,0 +1,6 @@
+{
+
+    "agentid": "Subscriber3",
+    "destination-vip":"tcp://192.168.3.199:22916?serverkey=Axume-ARUA9mtket21_ICHoh30xEQaxcbMxA36uTmGc&publickey=E-GTkWnXGOhd97DMQOkXhVQIlyNaIM4jNYbPrfzjECg&secretkey=CmOkuNUGDFjJXKzufMFPJNiKcGLQqE_dGNTZEoEggss",
+    "message": "bidder3"
+}

@@ -1,0 +1,6 @@
+{
+    "agentid": "Bidder",
+    "message": "hello",
+    "SellingAmount": "devices/AVISTA/SellingAmount",
+    "AskingPrice": "devices/AVISTA/AskingPrice"
+}
